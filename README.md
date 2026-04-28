@@ -5,4 +5,4 @@ Here are the steps to run the database interface:
   -> python3 populate.py
 4 - run this to compile and run the interface:
   -> javac -cp ".:sqlite-jdbc-3.39.3.0.jar" NHLDatabaseInterface.java
-  -> java -cp ".:sqlite-jdbc-3.39.3.0.jar" NHLDatabaseInterface.java
+  -> java -cp ".:sqlite-jdbc-3.39.3.0.jar" NHLDatabaseInterface
