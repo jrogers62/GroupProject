@@ -15,4 +15,4 @@ javac -cp ".:sqlite-jdbc-3.39.3.0.jar" NHLDatabaseInterface.java
 java -cp ".:sqlite-jdbc-3.39.3.0.jar" NHLDatabaseInterface
 ```
 # screenshot of interface
-![interface](Screenshots/interface)
+![interface](Screenshots/interface.png)
