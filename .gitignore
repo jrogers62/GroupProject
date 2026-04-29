@@ -1,0 +1,40 @@
+# Compiled Java classes
+*.class
+*.jar
+
+# Database files (very important!)
+*.db
+*.sqlite
+*.sqlite3
+NHL_Stats.db   # Change this if your database has a different name
+
+# Build / Output files
+*.exe
+*.zip
+build/
+dist/
+out/
+target/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary / Log files
+*.log
+*.tmp
